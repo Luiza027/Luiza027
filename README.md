@@ -10,7 +10,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Luiza027&show_icons=true&locale=en" alt="Luiza027" />
   </p>
   <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiza027&show_icons=true&locale=en&layout=compact" alt="wesleymarchi" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiza027&show_icons=true&locale=en&layout=compact" alt="Luiza027" />
   </p><br />
 </div>
 <br><br><br><br><br><br><br><br>
@@ -29,35 +29,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="icons/dotnet.svg" alt="Dot Net" width="40" height="40" /> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="icons/java.svg" alt="Java" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="icons/python.svg" alt="Python" width="40" height="40" /> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/pandas.svg" alt="Pandas" width="80" height="40" /> 
-  </a> 
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-    <img src="icons/keraslogo.png" alt="Keras" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/r.svg" alt="R" width="50" height="40" /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
-  </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
-  </a>
-  <a href="https://www.adobe.com/za/products/premiere.html" target="_blank" rel="noreferrer"> 
-    <img src="icons/Figma.svg" alt="Figma" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="icons/illustrator.svg" alt="Adobe Illustrator" width="40" height="40" /> 
+
   </a>
 </p>
 -->
