@@ -9,11 +9,8 @@
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Luiza027&show_icons=true&locale=en" alt="Luiza027" />
   </p>
-  <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiza027&show_icons=true&locale=en&layout=compact" alt="Luiza027" />
-  </p><br />
    <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleymarchi&show_icons=true&locale=en&layout=compact" alt="wesleymarchi" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiza027&show_icons=true&locale=en&layout=compact" alt="Luiza027" />
   </p>
 </div>
 <br><br><br><br><br><br><br><br>
